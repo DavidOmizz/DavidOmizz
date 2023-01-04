@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @DavidOmizz
-- 👀 I’m interested in Programing
-- 🌱 I’m currently learning web design
-- 💞️ I’m looking to collaborate on website developers
+- 👋 Hi, I’m DavidOmizz
+- I’m a Fullstack Developer 
+- A Python person 
 - 📫 How to reach me ...DavidOmizz on all social media
 
 <!---
